@@ -3,7 +3,7 @@
 
 <img width="1370" height="555" alt="Screenshot 2026-09-04 at 5 35 28 PM" src="https://github.com/user-attachments/assets/8f2a9c61-e810-48d5-8218-b646c88e0786" />
 
-%md
+
 # Creating Data Lakehouse with Health Data
 
 ## Lakehouse Architecture Following Databricks Reference
